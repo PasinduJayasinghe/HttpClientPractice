@@ -1,0 +1,15 @@
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice2PUT\HttpClientPractice2PUT\bin\Debug\net8.0\HttpClientPractice2PUT.exe
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice2PUT\HttpClientPractice2PUT\bin\Debug\net8.0\HttpClientPractice2PUT.deps.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice2PUT\HttpClientPractice2PUT\bin\Debug\net8.0\HttpClientPractice2PUT.runtimeconfig.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice2PUT\HttpClientPractice2PUT\bin\Debug\net8.0\HttpClientPractice2PUT.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice2PUT\HttpClientPractice2PUT\bin\Debug\net8.0\HttpClientPractice2PUT.pdb
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice2PUT\HttpClientPractice2PUT\obj\Debug\net8.0\HttpClientPractice2PUT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice2PUT\HttpClientPractice2PUT\obj\Debug\net8.0\HttpClientPractice2PUT.AssemblyInfoInputs.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice2PUT\HttpClientPractice2PUT\obj\Debug\net8.0\HttpClientPractice2PUT.AssemblyInfo.cs
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice2PUT\HttpClientPractice2PUT\obj\Debug\net8.0\HttpClientPractice2PUT.csproj.CoreCompileInputs.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice2PUT\HttpClientPractice2PUT\obj\Debug\net8.0\HttpClientPractice2PUT.sourcelink.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice2PUT\HttpClientPractice2PUT\obj\Debug\net8.0\HttpClientPractice2PUT.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice2PUT\HttpClientPractice2PUT\obj\Debug\net8.0\refint\HttpClientPractice2PUT.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice2PUT\HttpClientPractice2PUT\obj\Debug\net8.0\HttpClientPractice2PUT.pdb
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice2PUT\HttpClientPractice2PUT\obj\Debug\net8.0\HttpClientPractice2PUT.genruntimeconfig.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice2PUT\HttpClientPractice2PUT\obj\Debug\net8.0\ref\HttpClientPractice2PUT.dll
