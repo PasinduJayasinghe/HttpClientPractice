@@ -1,0 +1,15 @@
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice3Post\HttpClientPractice3Post\bin\Debug\net8.0\HttpClientPractice3Post.exe
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice3Post\HttpClientPractice3Post\bin\Debug\net8.0\HttpClientPractice3Post.deps.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice3Post\HttpClientPractice3Post\bin\Debug\net8.0\HttpClientPractice3Post.runtimeconfig.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice3Post\HttpClientPractice3Post\bin\Debug\net8.0\HttpClientPractice3Post.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice3Post\HttpClientPractice3Post\bin\Debug\net8.0\HttpClientPractice3Post.pdb
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice3Post\HttpClientPractice3Post\obj\Debug\net8.0\HttpClientPractice3Post.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice3Post\HttpClientPractice3Post\obj\Debug\net8.0\HttpClientPractice3Post.AssemblyInfoInputs.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice3Post\HttpClientPractice3Post\obj\Debug\net8.0\HttpClientPractice3Post.AssemblyInfo.cs
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice3Post\HttpClientPractice3Post\obj\Debug\net8.0\HttpClientPractice3Post.csproj.CoreCompileInputs.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice3Post\HttpClientPractice3Post\obj\Debug\net8.0\HttpClientPractice3Post.sourcelink.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice3Post\HttpClientPractice3Post\obj\Debug\net8.0\HttpClientPractice3Post.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice3Post\HttpClientPractice3Post\obj\Debug\net8.0\refint\HttpClientPractice3Post.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice3Post\HttpClientPractice3Post\obj\Debug\net8.0\HttpClientPractice3Post.pdb
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice3Post\HttpClientPractice3Post\obj\Debug\net8.0\HttpClientPractice3Post.genruntimeconfig.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpClientPractice3Post\HttpClientPractice3Post\obj\Debug\net8.0\ref\HttpClientPractice3Post.dll
