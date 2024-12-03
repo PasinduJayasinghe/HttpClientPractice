@@ -1,0 +1,15 @@
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpPracticeDelete\HttpPracticeDelete\bin\Debug\net8.0\HttpPracticeDelete.exe
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpPracticeDelete\HttpPracticeDelete\bin\Debug\net8.0\HttpPracticeDelete.deps.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpPracticeDelete\HttpPracticeDelete\bin\Debug\net8.0\HttpPracticeDelete.runtimeconfig.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpPracticeDelete\HttpPracticeDelete\bin\Debug\net8.0\HttpPracticeDelete.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpPracticeDelete\HttpPracticeDelete\bin\Debug\net8.0\HttpPracticeDelete.pdb
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpPracticeDelete\HttpPracticeDelete\obj\Debug\net8.0\HttpPracticeDelete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpPracticeDelete\HttpPracticeDelete\obj\Debug\net8.0\HttpPracticeDelete.AssemblyInfoInputs.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpPracticeDelete\HttpPracticeDelete\obj\Debug\net8.0\HttpPracticeDelete.AssemblyInfo.cs
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpPracticeDelete\HttpPracticeDelete\obj\Debug\net8.0\HttpPracticeDelete.csproj.CoreCompileInputs.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpPracticeDelete\HttpPracticeDelete\obj\Debug\net8.0\HttpPracticeDelete.sourcelink.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpPracticeDelete\HttpPracticeDelete\obj\Debug\net8.0\HttpPracticeDelete.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpPracticeDelete\HttpPracticeDelete\obj\Debug\net8.0\refint\HttpPracticeDelete.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpPracticeDelete\HttpPracticeDelete\obj\Debug\net8.0\HttpPracticeDelete.pdb
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpPracticeDelete\HttpPracticeDelete\obj\Debug\net8.0\HttpPracticeDelete.genruntimeconfig.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\HttpClientPractice\HttpPracticeDelete\HttpPracticeDelete\obj\Debug\net8.0\ref\HttpPracticeDelete.dll
